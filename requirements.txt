@@ -1,0 +1,4 @@
+nextcord
+python-dotenv
+aiosqlite
+sqlite3-0611

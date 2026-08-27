@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8fb0bf99-c197-43b2-952d-1ab180bf185c" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseLocalColorSettings">
+    <colors>
+      <entry key="bd6b453a-9630-405d-a39e-afeb2d8bf4eb" value="" />
+    </colors>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.7737825031238197" />
+      <entry key="MS500" value="1.9730398276485421" />
+      <entry key="S2" value="2.531735276771247" />
+      <entry key="S5" value="3.5065056639369203" />
+      <entry key="S10" value="4.790585588439438" />
+      <entry key="S30" value="10.208055216322705" />
+      <entry key="S60" value="19.232569202888364" />
+      <entry key="M2" value="32.333715491449546" />
+      <entry key="M5" value="49.25588676744835" />
+      <entry key="M10" value="60.55554043252534" />
+      <entry key="M15" value="69.07543804187556" />
+      <entry key="M30" value="99.42960807023044" />
+      <entry key="H1" value="188.84789563655713" />
+      <entry key="H2" value="357.5404702259495" />
+      <entry key="H4" value="543.112681042134" />
+      <entry key="D1" value="806.5174886453229" />
+      <entry key="W1" value="866.4871413227334" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="1.1657723897211842E-149" />
+      <entry key="S2" value="5.843236189781941E-38" />
+      <entry key="S5" value="1.2783841473626837E-15" />
+      <entry key="S10" value="3.575449828151255E-8" />
+      <entry key="S30" value="0.003294404299641425" />
+      <entry key="S60" value="0.057396901481190005" />
+      <entry key="M2" value="0.23957650444335532" />
+      <entry key="M5" value="0.5646565683016948" />
+      <entry key="M10" value="0.7544062090197253" />
+      <entry key="M15" value="0.8482272719041165" />
+      <entry key="M30" value="1.1188683968110507" />
+      <entry key="H1" value="2.01007470388085" />
+      <entry key="H2" value="3.986415362027553" />
+      <entry key="H4" value="6.381660691002293" />
+      <entry key="D1" value="10.000937784072471" />
+      <entry key="W1" value="10.85030031139225" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.8526349193840272" />
+      <entry key="MS500" value="1.003788867311057" />
+      <entry key="S2" value="1.7641368625930078" />
+      <entry key="S5" value="2.96433553211344" />
+      <entry key="S10" value="4.399604497082297" />
+      <entry key="S30" value="9.979953190242098" />
+      <entry key="S60" value="19.13550559194673" />
+      <entry key="M2" value="32.47654171241317" />
+      <entry key="M5" value="49.77219357205472" />
+      <entry key="M10" value="61.28152661148835" />
+      <entry key="M15" value="69.90175377786244" />
+      <entry key="M30" value="100.53132282310307" />
+      <entry key="H1" value="190.83994829664914" />
+      <entry key="H2" value="361.50919860139345" />
+      <entry key="H4" value="549.4808337636148" />
+      <entry key="D1" value="816.5150892647646" />
+      <entry key="W1" value="877.3369298655823" />
+    </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3ITJf691mPybLH7lMXbt9ifXQRJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.bot.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cog.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/npl20/OneDrive/Desktop/DiscordBot1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;ml.llm.LLMThirdPartyAiProvidersConfigurable&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="bot" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="DiscordBot1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="~\OneDrive\Desktop\DiscordBot1\.venv" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-821f704e66d9-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.9437.214" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8fb0bf99-c197-43b2-952d-1ab180bf185c" name="Changes" comment="" />
+      <created>1787782725118</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1787782725118</updated>
+      <workItem from="1787782726120" duration="264000" />
+      <workItem from="1787783055005" duration="5731000" />
+      <workItem from="1787788803724" duration="4828000" />
+      <workItem from="1787854873404" duration="8835000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DiscordBot1$bot.coverage" NAME="bot Coverage Results" MODIFIED="1787863705162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/DiscordBot1$cog.coverage" NAME="cog Coverage Results" MODIFIED="1787788722752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modules/test" />
+    <SUITE FILE_PATH="coverage/DiscordBot1$main.coverage" NAME="main Coverage Results" MODIFIED="1787788350333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
